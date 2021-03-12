@@ -1,6 +1,6 @@
 # Fizz Buzz
 
-This solution was created for a software developer application.
+This solution was created during an application for a software developer position.
 
 #### Problem ####
 Write a program that prints the numbers from 1 to 100.<br />
